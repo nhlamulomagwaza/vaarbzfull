@@ -1,0 +1,28 @@
+=====================================------------------------
+Vaarbz is a mern chat application, a social media application 
+=====================================------------------------
+
+
+1. Users will be able to sign in, or sign up for an account
+2. Users will be able to create a profile with username, age,location,
+ email, profile picture.
+
+3. In the profile area, users will be able to edit/add status
+   edit profile picture/username, but not email. likewise,
+   they can also delete their account.
+
+4. there will be one on one conversations as well as group
+   conversations.
+
+
+5. a user has to create a group, and add participants. only admin
+   can remove pariticpants, edit group name and group picture. only
+   admin can delete group.
+
+6. The receiver of a chat will receive notifications.
+
+7. A typing indicator will appear when a user is typing.
+
+8. Users have to search for a user, or invite them in the users
+   area. thus a user can only message a user who has accepted 
+   their invite/friend requests.
